@@ -43,7 +43,7 @@ export async function PUT(request: NextRequest) {
     }
 
     // Replace all availability in a transaction
-    const availability = await prisma.$transaction(async (tx) => {
+    const availability = await prisma.$transaction(async (tx: any) => {
       await tx.availability.deleteMany()
       return tx.availability.createMany({
         data: body.map((record) => ({
