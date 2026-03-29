@@ -1,0 +1,56 @@
+[
+  {
+    "id": "cmnbhgee80005nk8879n7bcwn",
+    "dayOfWeek": 1,
+    "startTime": "10:00",
+    "endTime": "17:00",
+    "timezone": "Asia/Kolkata",
+    "createdAt": "2026-03-29T08:14:10.401Z",
+    "updatedAt": "2026-03-29T08:14:10.401Z"
+  },
+  {
+    "id": "cmnbhgee80006nk88txsihnva",
+    "dayOfWeek": 2,
+    "startTime": "09:00",
+    "endTime": "17:00",
+    "timezone": "Asia/Kolkata",
+    "createdAt": "2026-03-29T08:14:10.401Z",
+    "updatedAt": "2026-03-29T08:14:10.401Z"
+  },
+  {
+    "id": "cmnbhgee80007nk88vhmflwjz",
+    "dayOfWeek": 3,
+    "startTime": "09:00",
+    "endTime": "17:00",
+    "timezone": "Asia/Kolkata",
+    "createdAt": "2026-03-29T08:14:10.401Z",
+    "updatedAt": "2026-03-29T08:14:10.401Z"
+  },
+  {
+    "id": "cmnbhgee80008nk8807lbtqfa",
+    "dayOfWeek": 4,
+    "startTime": "09:00",
+    "endTime": "17:00",
+    "timezone": "Asia/Kolkata",
+    "createdAt": "2026-03-29T08:14:10.401Z",
+    "updatedAt": "2026-03-29T08:14:10.401Z"
+  },
+  {
+    "id": "cmnbhgee80009nk88vaeem7gp",
+    "dayOfWeek": 5,
+    "startTime": "09:00",
+    "endTime": "17:00",
+    "timezone": "Asia/Kolkata",
+    "createdAt": "2026-03-29T08:14:10.401Z",
+    "updatedAt": "2026-03-29T08:14:10.401Z"
+  },
+  {
+    "id": "cmnbhgee8000ank88jnnzeom2",
+    "dayOfWeek": 6,
+    "startTime": "09:00",
+    "endTime": "17:00",
+    "timezone": "Asia/Kolkata",
+    "createdAt": "2026-03-29T08:14:10.401Z",
+    "updatedAt": "2026-03-29T08:14:10.401Z"
+  }
+]
