@@ -47,7 +47,7 @@ export default async function EventTypesPage() {
         </div>
       ) : (
         <div className="overflow-hidden rounded-xl border border-[#e5e7eb] bg-white">
-          {eventTypes.map((eventType, idx) => (
+          {eventTypes.map((eventType: any, idx: number) => (
             <div
               key={eventType.id}
               className={`flex items-center justify-between px-6 py-5 transition-colors hover:bg-[#f9fafb] ${
