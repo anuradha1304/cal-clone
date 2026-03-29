@@ -90,7 +90,7 @@ export async function GET(request: NextRequest) {
 
     // --- 6. Build set of booked slot times for O(1) lookup ---
     const bookedTimes = new Set(
-      confirmedBookings.map((booking) => {
+      confirmedBookings.map((booking: any) => {
         const d = new Date(booking.startTime)
         const hh = d.getUTCHours().toString().padStart(2, '0')
         const mm = d.getUTCMinutes().toString().padStart(2, '0')
